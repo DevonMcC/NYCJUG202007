@@ -1,0 +1,17 @@
+             Meeting Agenda for NYCJUG 20200714
+             ----------------------------------
+
+1. Beginner's regatta: see "Playing Around with J" by Daniel Bell:
+https://thecobraeffect.blogspot.com/2020/02/playing-around-with-j.html
+
+2. Learning and teaching J: go over "Python for J Programmers.doc".
+
+3. Show-and-tell: see "Linked Lists Versus Arrays.doc".
+
+4. Miscellaneous: examples of folding images to induce bilateral symmetry:
+see "symmetry-folding examplesNBexplanationCol3_80p.jpg".
+
+            +.--------------------+.
+There is no cure for birth and death
+save to enjoy the interval.
+  - Santayana
